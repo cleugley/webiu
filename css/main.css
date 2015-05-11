@@ -19,7 +19,7 @@ body{
 /*-------------------------------------------  header -------------------------------------------------------*/
 
 header{
-	border-bottom: 1px solid #bbb8bf; /*changes color of border under project name*/
+	border-bottom: 3px solid #0748E8; /*changes color of border under project name*/
 }
 h1{
 	margin-top: 0;
